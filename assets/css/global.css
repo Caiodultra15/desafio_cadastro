@@ -533,3 +533,14 @@ td .titulo {
 .toggle-password:hover {
     color:var(--text);
 }
+.table-wrapper {
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.table-wrapper table {
+    width: 100%;
+    min-width: 900px;
+    border-collapse: collapse;
+}
