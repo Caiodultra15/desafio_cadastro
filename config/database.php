@@ -6,7 +6,7 @@ class Database
     private $port = "5432";
     private $dbname = "controle_chamados";
     private $user = "postgres";
-    private $password = "caiodultra1";
+    private $password = "";
 
     public function connect()
     {
