@@ -82,7 +82,3 @@ Acesse:
 ```
 http://localhost/controle-chamados/views/login.php
 ```
-
-## Autor
-
-Caio Dultra
