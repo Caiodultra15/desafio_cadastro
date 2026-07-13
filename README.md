@@ -44,7 +44,7 @@ views/
 ### 1. Clone o projeto
 
 ```bash
-git clone <url-do-repositório>
+git clone https://github.com/Caiodultra15/desafio_cadastro.git
 ```
 
 ### 2. Crie o banco de dados
